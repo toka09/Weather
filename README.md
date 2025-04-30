@@ -13,10 +13,6 @@ A simple and responsive weather application that fetches real-time weather data 
 
 You can view a live demo (optional): [(https://toka09.github.io/Weather/)]
 
-## Screenshots
-
-*(Insert screenshots here if available)*
-
 ## Technologies Used
 
 - HTML5
